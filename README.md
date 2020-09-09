@@ -48,25 +48,20 @@ Dedicated & VPS Servers Administration & Maintenance.
   - Maintenance.
     <br><br>
 
-**Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
+## :package: Projects <br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
+  - **Virtual Mailbox** @ [Global Express Limited](https://www.globalexpresslimited.com/) <br>
+    - GEL App VM is a laravel based portal which includes Staff Management, Customer Management, Package Management & Complaint Management System
+    - **_Technologies used:_** HTML/CSS & JavaScript, PHP & MySQL, Laravel 6.x.
+    
+  - **Hisab Kitab** @ [Huzaifa Arain](https://www.huzaifaarain.com/) <br>
+    - Hisab Kitab is my personal project and i have been using it as a SaaS, Hisab Kitab includes User module, Inventory module linked with Accounting module
+    - **_Technologies used:_** HTML/CSS & JavaScript, PHP & MySQL, Laravel 6.x.
     <br><br>
+    
+  - **VISA MIS** @ [Bright Spark Travels](https://www.brightsparktravels.com/) <br>
+    - VISA MIS is a web portal for Bright Spark Travels for managing their customers and their VISA applications.
+    - **_Technologies used:_** HTML/CSS & JavaScript, PHP & MySQL, CodeIgniter.
 
 ## :man_with_turban: 🎓 Education
 
