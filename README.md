@@ -4,22 +4,48 @@ _Linux System Administrator & Web Developer from Pakistan_ <br>
 
 [Email](mailto:me@huzaifaarain.com) / [Website](https://huzaifaarain.com/) / [LinkedIn](https://www.linkedin.com/in/huzaifaarain/) / [GitHub](https://github.com/huzaifaarain/) / [Twitter](https://twitter.com/huzaifaarain07/)
 
-## 👩🏼‍💻 Technical Experience
+## :computer: Professional Services
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Present)_ <br>
-Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) for graphql.org
-<br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+**GNU/Linux** _(Linux System Administration)_ <br>
+Dedicated & VPS Servers Administration & Maintenance.
+  - WHM Administration - Web Host Manager
+  - CentOS - RHEL
+  - Debian
+  - Ubuntu
+  - Basic Configurations
+  - Remote Server Management ( ssh )
+  - File Management ( Permissions & Sharing )
+  - Network Diagnostics
+  - I/O Usage Management
+  - User Management
+  - Process Management
+  - Package Management ( mostly apt & yum )
+  - Web Servers Configurations & Management
+  
+**Web Development** _(HTML/CSS & JavaScript, PHP & MySQL, Laravel & CodeIgniter)_ <br>
+  - General Purpose Websites
+  - Web Portals / Apps
+  - MIS - Management Information Systems
+  - EIS - Executive Information Systems
+  - Accounting & Inventory Applications
+  - POS - Point of Sale Systems.
+  - Laravel Applications / Websites
+  - CodeIgniter Applications / Websites
+  - API - Creation & Integration e.g PayPal, Braintree, Stripe and etc.
+  
+**WordPress Development** _(Themes & Plugins)_ <br>
+  - Simple WordPress Website
+  - e-Commerce WordPress Website
+  - Plugin Development
+  - PSD to WordPress
+  - HTML to WordPress
+  - WooCommerce Development
+    - Setup & Configuration
+    - Maintainance
+    - Customiztion
+  - Optimization
+  - Security
+  - Maintenance.
     <br><br>
 
 **Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
