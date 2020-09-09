@@ -42,7 +42,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
 
-## :man_with_turban:🎓 Education
+## :man_with_turban: 🎓 Education
 
 **M.Phil Computer Science**<br>
 [FAST-NUCES](http://nu.edu.pk/) - Lahore, Pakistan _(Aug 2019 - Ongoing)_ <br>
