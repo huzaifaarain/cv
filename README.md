@@ -8,44 +8,44 @@ _Linux System Administrator & Web Developer from Pakistan_ <br>
 
 **GNU/Linux** _(Linux System Administration)_ <br>
 Dedicated & VPS Servers Administration & Maintenance.
-  - WHM Administration - Web Host Manager
-  - CentOS - RHEL
-  - Debian
-  - Ubuntu
-  - Basic Configurations
-  - Remote Server Management ( ssh )
-  - File Management ( Permissions & Sharing )
-  - Network Diagnostics
-  - I/O Usage Management
-  - User Management
-  - Process Management
-  - Package Management ( mostly apt & yum )
-  - Web Servers Configurations & Management
+  - :white_check_mark: WHM Administration - Web Host Manager
+  - :white_check_mark: CentOS - RHEL
+  - :white_check_mark: Debian
+  - :white_check_mark: Ubuntu
+  - :white_check_mark: Basic Configurations
+  - :white_check_mark: Remote Server Management ( ssh )
+  - :white_check_mark: File Management ( Permissions & Sharing )
+  - :white_check_mark: Network Diagnostics
+  - :white_check_mark: I/O Usage Management
+  - :white_check_mark: User Management
+  - :white_check_mark: Process Management
+  - :white_check_mark: Package Management ( mostly apt & yum )
+  - :white_check_mark: Web Servers Configurations & Management
   
 **Web Development** _(HTML/CSS & JavaScript, PHP & MySQL, Laravel & CodeIgniter)_ <br>
-  - General Purpose Websites
-  - Web Portals / Apps
-  - MIS - Management Information Systems
-  - EIS - Executive Information Systems
-  - Accounting & Inventory Applications
-  - POS - Point of Sale Systems.
-  - Laravel Applications / Websites
-  - CodeIgniter Applications / Websites
-  - API - Creation & Integration e.g PayPal, Braintree, Stripe and etc.
+  - :white_check_mark: General Purpose Websites
+  - :white_check_mark: Web Portals / Apps
+  - :white_check_mark: MIS - Management Information Systems
+  - :white_check_mark: EIS - Executive Information Systems
+  - :white_check_mark: Accounting & Inventory Applications
+  - :white_check_mark: POS - Point of Sale Systems.
+  - :white_check_mark: Laravel Applications / Websites
+  - :white_check_mark: CodeIgniter Applications / Websites
+  - :white_check_mark: API - Creation & Integration e.g PayPal, Braintree, Stripe and etc.
   
 **WordPress Development** _(Themes & Plugins)_ <br>
-  - Simple WordPress Website
-  - e-Commerce WordPress Website
-  - Plugin Development
-  - PSD to WordPress
-  - HTML to WordPress
-  - WooCommerce Development
+  - :white_check_mark: Simple WordPress Website
+  - :white_check_mark: e-Commerce WordPress Website
+  - :white_check_mark: Plugin Development
+  - :white_check_mark: PSD to WordPress
+  - :white_check_mark: HTML to WordPress
+  - :white_check_mark: WooCommerce Development
     - Setup & Configuration
     - Maintainance
     - Customiztion
-  - Optimization
-  - Security
-  - Maintenance.
+  - :white_check_mark: Optimization
+  - :white_check_mark: Security
+  - :white_check_mark: Maintenance.
     <br><br>
 
 ## :package: Projects <br>
