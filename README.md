@@ -8,44 +8,44 @@ _Linux System Administrator & Web Developer from Pakistan_ <br>
 
 **GNU/Linux** _(Linux System Administration)_ <br>
 Dedicated & VPS Servers Administration & Maintenance.
-  - :white_check_mark: WHM Administration - Web Host Manager
-  - :white_check_mark: CentOS - RHEL
-  - :white_check_mark: Debian
-  - :white_check_mark: Ubuntu
-  - :white_check_mark: Basic Configurations
-  - :white_check_mark: Remote Server Management ( ssh )
-  - :white_check_mark: File Management ( Permissions & Sharing )
-  - :white_check_mark: Network Diagnostics
-  - :white_check_mark: I/O Usage Management
-  - :white_check_mark: User Management
-  - :white_check_mark: Process Management
-  - :white_check_mark: Package Management ( mostly apt & yum )
-  - :white_check_mark: Web Servers Configurations & Management
+  - :heavy_check_mark: WHM Administration - Web Host Manager
+  - :heavy_check_mark: CentOS - RHEL
+  - :heavy_check_mark: Debian
+  - :heavy_check_mark: Ubuntu
+  - :heavy_check_mark: Basic Configurations
+  - :heavy_check_mark: Remote Server Management ( ssh )
+  - :heavy_check_mark: File Management ( Permissions & Sharing )
+  - :heavy_check_mark: Network Diagnostics
+  - :heavy_check_mark: I/O Usage Management
+  - :heavy_check_mark: User Management
+  - :heavy_check_mark: Process Management
+  - :heavy_check_mark: Package Management ( mostly apt & yum )
+  - :heavy_check_mark: Web Servers Configurations & Management
   
 **Web Development** _(HTML/CSS & JavaScript, PHP & MySQL, Laravel & CodeIgniter)_ <br>
-  - :white_check_mark: General Purpose Websites
-  - :white_check_mark: Web Portals / Apps
-  - :white_check_mark: MIS - Management Information Systems
-  - :white_check_mark: EIS - Executive Information Systems
-  - :white_check_mark: Accounting & Inventory Applications
-  - :white_check_mark: POS - Point of Sale Systems.
-  - :white_check_mark: Laravel Applications / Websites
-  - :white_check_mark: CodeIgniter Applications / Websites
-  - :white_check_mark: API - Creation & Integration e.g PayPal, Braintree, Stripe and etc.
+  - :heavy_check_mark: General Purpose Websites
+  - :heavy_check_mark: Web Portals / Apps
+  - :heavy_check_mark: MIS - Management Information Systems
+  - :heavy_check_mark: EIS - Executive Information Systems
+  - :heavy_check_mark: Accounting & Inventory Applications
+  - :heavy_check_mark: POS - Point of Sale Systems.
+  - :heavy_check_mark: Laravel Applications / Websites
+  - :heavy_check_mark: CodeIgniter Applications / Websites
+  - :heavy_check_mark: API - Creation & Integration e.g PayPal, Braintree, Stripe and etc.
   
 **WordPress Development** _(Themes & Plugins)_ <br>
-  - :white_check_mark: Simple WordPress Website
-  - :white_check_mark: e-Commerce WordPress Website
-  - :white_check_mark: Plugin Development
-  - :white_check_mark: PSD to WordPress
-  - :white_check_mark: HTML to WordPress
-  - :white_check_mark: WooCommerce Development
+  - :heavy_check_mark: Simple WordPress Website
+  - :heavy_check_mark: e-Commerce WordPress Website
+  - :heavy_check_mark: Plugin Development
+  - :heavy_check_mark: PSD to WordPress
+  - :heavy_check_mark: HTML to WordPress
+  - :heavy_check_mark: WooCommerce Development
     - Setup & Configuration
     - Maintainance
     - Customiztion
-  - :white_check_mark: Optimization
-  - :white_check_mark: Security
-  - :white_check_mark: Maintenance.
+  - :heavy_check_mark: Optimization
+  - :heavy_check_mark: Security
+  - :heavy_check_mark: Maintenance.
     <br><br>
 
 ## :package: Projects <br>
