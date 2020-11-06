@@ -1,3 +1,4 @@
+
 # Huzaifa Arain
 
 _Linux System Administrator & Web Developer from Pakistan_ <br>
@@ -65,17 +66,18 @@ Dedicated & VPS Servers Administration & Maintenance.
 
 ## :man_with_turban: :office: Work Experience
 
-**Sr. Software Engineer**<br>
-[ArainX Pvt Ltd](https://arainx.com/) - Lahore, Pakistan _(Oct 2020 - Ongoing)_ <br>
+**Sr. Software Engineer**
+_Linux | Docker | Core PHP | Laravel | CakePHP | CodeIgniter_
+[ArainX Pvt Ltd](https://arainx.com/) - Lahore, Pakistan _(Oct 2020 - Ongoing)_
 
-**Sr. Software Engineer**<br>
-[HAS Concepts](#) - Lahore, Pakistan _(2018 - 2019)_ <br>
+**Sr. Software Engineer**
+[HAS Concepts](#) - Lahore, Pakistan _(2018 - 2019)_
 
-**Chief Executive / Team Lead**<br>
-[DivsnPixel](http://divsnpixel.com/) - Hyderabad, Pakistan _(2013 - 2015)_ <br>
+**Chief Executive / Team Lead**
+[DivsnPixel](http://divsnpixel.com/) - Hyderabad, Pakistan _(2013 - 2015)_
 
-**Visiting Faculty**<br>
-[Aptech Computer Education](https://aptech-education.com.pk/) - Hyderabad, Pakistan _(2012 - 2013)_ <br>
+**Visiting Faculty**
+[Aptech Computer Education](https://aptech-education.com.pk/) - Hyderabad, Pakistan _(2012 - 2013)_
 
 ## :man_with_turban: 🎓 Education
 
