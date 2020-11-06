@@ -63,7 +63,7 @@ Dedicated & VPS Servers Administration & Maintenance.
     - VISA MIS is a web portal for Bright Spark Travels for managing their customers and their VISA applications.
     - **_Technologies used:_** HTML/CSS & JavaScript, PHP & MySQL, CodeIgniter.
 
-## :man_with_turban: :office: 🎓 Education
+## :man_with_turban: :office: Work Experience
 
 **Sr. Software Engineer**<br>
 [ArainX Pvt Ltd](https://arainx.com/) - Lahore, Pakistan _(Oct 2020 - Ongoing)_ <br>
