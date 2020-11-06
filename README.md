@@ -68,6 +68,15 @@ Dedicated & VPS Servers Administration & Maintenance.
 **Sr. Software Engineer**<br>
 [ArainX Pvt Ltd](https://arainx.com/) - Lahore, Pakistan _(Oct 2020 - Ongoing)_ <br>
 
+**Sr. Software Engineer**<br>
+[HAS Concepts](#) - Lahore, Pakistan _(2018 - 2019)_ <br>
+
+**Chief Executive / Team Lead**<br>
+[DivsnPixel](http://divsnpixel.com/) - Hyderabad, Pakistan _(2013 - 2015)_ <br>
+
+**Visiting Faculty**<br>
+[Aptech Computer Education](https://aptech-education.com.pk/) - Hyderabad, Pakistan _(2012 - 2013)_ <br>
+
 ## :man_with_turban: 🎓 Education
 
 **M.Phil Computer Science**<br>
