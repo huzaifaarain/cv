@@ -48,7 +48,7 @@ Dedicated & VPS Servers Administration & Maintenance.
   - :heavy_check_mark: Maintenance.
     <br><br>
 
-## :package: Projects <br>
+## :package: Freelance Projects <br>
 
   - **Virtual Mailbox** @ [Global Express Limited](https://www.globalexpresslimited.com/) <br>
     - GEL App VM is a laravel based portal which includes Staff Management, Customer Management, Package Management & Complaint Management System
@@ -62,6 +62,11 @@ Dedicated & VPS Servers Administration & Maintenance.
   - **VISA MIS** @ [Bright Spark Travels](https://www.brightsparktravels.com/) <br>
     - VISA MIS is a web portal for Bright Spark Travels for managing their customers and their VISA applications.
     - **_Technologies used:_** HTML/CSS & JavaScript, PHP & MySQL, CodeIgniter.
+
+## :man_with_turban: :office: 🎓 Education
+
+**Sr. Software Engineer**<br>
+[ArainX Pvt Ltd](https://arainx.com/) - Lahore, Pakistan _(Oct 2020 - Ongoing)_ <br>
 
 ## :man_with_turban: 🎓 Education
 
